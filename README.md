@@ -1,5 +1,5 @@
 ![](./resources/official_armmbed_example_badge.png)
-# Socket Example - Testing FIX in QA env on 10/04/24 14:48
+# Socket Example - FINAL Testing of FIX in QA env on 10/04/24 16:17
 
 This example shows usage of [network-socket API](https://os.mbed.com/docs/mbed-os/latest/apis/network-socket.html).
 

@@ -51,7 +51,7 @@ public:
     void run()
     {
         if (!_net) {
-            printf("Error! No network interface found.\r\n");
+            printf("Error! No network interface has been found.\r\n");
             return;
         }
 

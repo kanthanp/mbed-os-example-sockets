@@ -1,5 +1,5 @@
 ![](./resources/official_armmbed_example_badge.png)
-# Socket Example - Testing fork operation on 10/01/24 13:04
+# Socket Example - Testing push operation on 24/04/25 12:07
 
 This example shows usage of [network-socket API](https://os.mbed.com/docs/mbed-os/latest/apis/network-socket.html).
 

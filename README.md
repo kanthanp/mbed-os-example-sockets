@@ -1,5 +1,5 @@
 ![](./resources/official_armmbed_example_badge.png)
-# Socket Example - Testing commit & push operations on 29/04/25 15:38
+# Socket Example - Testing commit & push operations on 29/04/25 18:55
 
 This example shows usage of [network-socket API](https://os.mbed.com/docs/mbed-os/latest/apis/network-socket.html).
 
